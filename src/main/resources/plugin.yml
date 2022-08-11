@@ -1,0 +1,12 @@
+name: BGSPlayer
+version: '${project.version}'
+main: com.github.elic0de.bgsplayer.BGSPlayer
+api-version: 1.18
+author: Elic0de
+website: github.com/Elic0de
+commands:
+  bgs:
+    description: BGS
+    permission: bgsplayer.command
+permissions:
+  bgsplayer.command: {}
